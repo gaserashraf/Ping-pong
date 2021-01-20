@@ -1,7 +1,7 @@
 # Ping-pong
 <p align="center">
   <a href="" rel="noopener">
- <img width=100% src="screenshots/cover.jpg" alt="logo"></a>
+ <img width=100% src="screenshots/cover.png" alt="logo"></a>
 </p>
 <p align="center"> Ping-pong.
     <br> 
